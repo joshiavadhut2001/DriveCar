@@ -1,6 +1,6 @@
 # drivecar
 
-A new Flutter project.
+A new Flutter project. for AFourHackathon
 
 ## Getting Started
 
